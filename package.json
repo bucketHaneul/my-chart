@@ -1,6 +1,6 @@
 {
   "name": "my-webpack-project",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "My webpack project",
   "main": "index.js",
   "license": "MIT",
@@ -32,6 +32,6 @@
   "scripts": {
     "build": "webpack --mode=production --node-env=production",
     "start": "webpack serve",
-    "release:patch": "yarn version --patch && git push && git push --tags"
+    "release:patch": "yarn version --patch && git push"
   }
 }
