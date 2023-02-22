@@ -32,6 +32,6 @@
   "scripts": {
     "build": "webpack --mode=production --node-env=production",
     "start": "webpack serve",
-    "release:patch": "yarn version --patch --no-commit && git push && git push --tags"
+    "release:patch": "yarn version --patch && git push && git push --tags"
   }
 }
