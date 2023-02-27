@@ -1,6 +1,6 @@
 {
   "name": "my-webpack-project",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "My webpack project",
   "main": "index.js",
   "license": "MIT",
