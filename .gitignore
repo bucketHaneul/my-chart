@@ -10,4 +10,11 @@ node_modules
 # error
 yarn-error.log
 
-
+# yarn berry
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions

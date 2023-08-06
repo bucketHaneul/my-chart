@@ -32,5 +32,6 @@
   "scripts": {
     "build": "webpack --mode=production --node-env=production",
     "start": "webpack serve"
-  }
+  },
+  "packageManager": "yarn@3.6.1"
 }
