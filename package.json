@@ -1,7 +1,7 @@
 {
-  "name": "my-webpack-project",
+  "name": "my-chart",
   "version": "1.0.0",
-  "description": "My webpack project",
+  "description": "Chart library for everyone",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
@@ -32,5 +32,6 @@
   "scripts": {
     "build": "webpack --mode=production --node-env=production",
     "start": "webpack serve"
-  }
+  },
+  "packageManager": "yarn@3.6.1"
 }
