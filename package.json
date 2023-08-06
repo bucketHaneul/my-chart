@@ -1,7 +1,7 @@
 {
-  "name": "my-webpack-project",
+  "name": "my-chart",
   "version": "1.0.0",
-  "description": "My webpack project",
+  "description": "Chart library for everyone",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
